@@ -30,6 +30,9 @@ Then execute with
 ```sh
 java -jar target/keytrans-server-<version>.jar
 ```
+#### Optional: Setting the Server URI
+By default, the server URI is set to 0.0.0.0:8000. The server URI is set in: gov.ornl.tasqc.keytrans/src/gov/ornl/tasqc/keytrans/KeyTransLauncher.java, line #58. This must be set before building the server.
+
 ## Properties
 
 Properties are defined in the config.properties file. Currently supported properties are:

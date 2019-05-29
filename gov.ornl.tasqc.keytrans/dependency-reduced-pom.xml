@@ -4,7 +4,7 @@
   <groupId>gov.ornl.tasqc.keytrans</groupId>
   <artifactId>keytrans-server</artifactId>
   <name>keytrans-server</name>
-  <version>0.2-SNAPSHOT</version>
+  <version>0.3-SNAPSHOT</version>
   <build>
     <sourceDirectory>src/gov/ornl/tasqc/keytrans</sourceDirectory>
     <resources>
